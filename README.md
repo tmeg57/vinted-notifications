@@ -81,8 +81,6 @@ Then open [http://localhost:8000](http://localhost:8000) in your browser.
 1. **Create a docker-compose.yml file**
 
    ```yaml
-   version: '3.8'
-
    services:
      vinted-notifications:
        image: tmeg57/vinted-notifications:latest
