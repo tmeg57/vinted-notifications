@@ -280,3 +280,5 @@ This project is licensed under the [GNU AFFERO GENERAL PUBLIC LICENSE](LICENSE).
 ## 🙏 Acknowledgements
 
 - Thanks to [@herissondev](https://github.com/herissondev) for maintaining pyVinted, a core dependency of this project.
+- Thanks to [@Fuyucch1](https://github.com/Fuyucch1) for the original developpement
+- Thanks to [@3vilrabbit](https://github.com/3vilrabbit) for the Vinted API update
