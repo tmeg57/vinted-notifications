@@ -1,5 +1,3 @@
-version: '3.8'
-
 services:
   vinted-notifications:
     image: tmeg57/vinted-notifications:latest
