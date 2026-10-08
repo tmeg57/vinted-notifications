@@ -1,4 +1,4 @@
-# Vinted-Notifications
+# Vinted-Notifications - Updated with new version of Vinted API + working Docker image
 
 A real-time notification system for Vinted listings that works across all Vinted country domains. Get instant alerts
 when items matching your search criteria are posted.
